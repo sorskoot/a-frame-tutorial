@@ -22,20 +22,21 @@ Current planning (this will probably change along the way):
 	12. JavaScript: Component
 	13. Tick/Tock
 	14. Moving around + Interaction – Keyboard/Mouse
-	15. Interaction – Cursor/Gaze
-	16. Audio + positional Audio
-	17. Text
-	18. Entities
-	19. Loading models
-	20. mixins
-	21. Shaders
-	22. Curved Image + Video
-	23. DayDream controller – Laser Controls
-	24. Custom Enity components
-	25. Three-js objects
-	26. Systems
-	27. Deep into: Scene – Dive into methods and events
-	28. Deep into: Lights + Shadows
-	29. Deep into: Asset Management System
-	30. Deep into: Components
-    31+ Demos and tutorials about Components
+	15. Events
+	16. Interaction – Cursor/Gaze
+	17. Audio + positional Audio
+	18. Text
+	19. Entities
+	20. Loading models
+	21. mixins
+	22. Shaders
+	23. Curved Image + Video
+	24. DayDream controller – Laser Controls
+	25. Custom Enity components
+	26. Three-js objects
+	27. Systems
+	28. Deep into: Scene – Dive into methods and events
+	29. Deep into: Lights + Shadows
+	30. Deep into: Asset Management System
+	31. Deep into: Components
+    32+ Demos and tutorials about Components
