@@ -1,0 +1,19 @@
+{
+  "name": "01b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server . -p 1337 -o -c-1",
+    "build": "webpack --config webpack.config --progress --colors",
+    "watch": "webpack --config webpack.config --colors --watch"
+  },
+  "keywords": [],
+  "author": "Sorskoot",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.3.0",
+    "http-server": "^0.10.0",
+    "webpack": "^3.8.1"
+  }
+}
